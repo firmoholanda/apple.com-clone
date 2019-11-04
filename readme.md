@@ -3,9 +3,11 @@ This project is part of a series of projects to be completed by students of [Mic
 
 This project consists of building an HTML document that matches the appearance of nytimes.com.
 
+
 ## 🔗 Link to assignment
 
 The assignment can be found in the Odin Project's HTML and CSS course that can be found [here](hhttps://www.theodinproject.com/courses/html5-and-css3/lessons/positioning-and-floating-elements).
+
 
 ## 📡 Technologies used
 
@@ -13,6 +15,7 @@ The assignment can be found in the Odin Project's HTML and CSS course that can b
 - CSS
 
 Basic HTML5, CSS and github was used on this collaborative project.
+
 
 ## 🚀 Our project
 
@@ -22,6 +25,7 @@ Our project can be found in https://github.com/Rhelli/NYT-Clone/tree/development
 <a href="https://raw.githack.com/firmoholanda/mint.com-clone/tree/development" target="_blank">
     <img alt="page animation" src="https://github.com/Rhelli/NYT-Clone/tree/development/Assets/Img/nytimes.com-clone-animation.gif" />
 </a>
+
 
 ## 🤝 Contributing
 
@@ -33,15 +37,16 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 4. Push to the branch (git push origin [chosen-name])
 5. Create a new Pull Request
 
+
 ## 🤖 Contributors
 
-Rory Hellier - [GitHub](https://github.com/Rhelli)
-
 firmo holanda - [GitHub](https://github.com/firmoholanda)
+
 
 ## 🙋‍♂ Show your support
 
 Give a ⭐️ if you like this project!
+
 
 ## 📝 License
 
