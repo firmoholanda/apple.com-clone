@@ -1,5 +1,6 @@
 
 body {
+  min-width: 1024px;
   max-width: 1440px;
   margin: 0 auto;
   font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
@@ -13,7 +14,7 @@ h1, h2, div {
   -webkit-font-smoothing: antialiased;
 }
 
-article aside {
+article {
   display: block;
   width: 1440px;
 }
@@ -25,21 +26,70 @@ ul {
 }
 
 /* navbar -------------------------------------------------------------------------------*/
-#navBar {
-  list-style-type: none;
-  text-align: center; 
-
-  background-color: rgba(255, 179, 187, 1);
+.navBar {
+  height: 36px;
+  width: 980px;
+  margin: 0 auto;
+  background: linear-gradient(#999, #707070 50%, #5e5e5e 50%, #797979);
+  border: 1px solid #606060;
+  border-radius: 4px;
 }
   
-#navBar li {
+.navbar ul, .search {
   display: inline-block;
-  font-size: 17px;
-  padding: 17px;
+  height: 100%;
+}
+
+.navbar li {
+  float: left;
+  width: 102px;
+  height: 100%;
+  list-style-type: none;
+  border-right: 1px solid #606060;
+}
+
+.navbar li:hover {
+  background: #666;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.navbar a {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  text-shadow: 0 -1px #404040, 0 1px #606060;
+  font-size: 13px;
+  width: 100%;
+  text-align: center;
+  padding-top: 9px;
+}
+
+.apple {
+  position: relative;
+  top: -2px;
+}
+
+.search {
+  float: right;
+  padding-top: 8px;
+  padding-right: 16px;
+}
+.search input {
+  box-sizing: border-box;
+  width: 126px;
+  border: 1px solid #606060;
+  border-radius: 12px;
+  background-image: url('../img/search.svg');
+  background-position: 3px 3px;
+  background-color: #aaa;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding-left: 20px;
+  margin-left: 10px;
+  color: #fff;
 }
 
 /* billboard ----------------------------------------------------------------------------*/
-#billboard {
+.billboard {
   text-align: center;
   padding: 50px 0;
   background:url("../img/your_verse_hero.jpg") 50% 100% no-repeat;
@@ -49,18 +99,37 @@ ul {
 }
 
 /* promos -------------------------------------------------------------------------------*/
-#promos {
-  background-color: rgba(255, 254, 187, 1);
+.promos {
+  overflow: hidden;
+  margin-top: 2px;
 }
 
-#promos li {
-  width: 360px;
+.promos li {
+  position: relative;
   float: left;
-  list-style-type: none;
+  width: 24.8%;
+  height: 200px;
+  overflow: hidden;
+}
+
+.promos a {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: block;
+}
+
+.promos img {
+  position: absolute;
+  left: 50%;
+  margin-left: -182px;
+  height: 200px;
 }
 
 /* footer -------------------------------------------------------------------------------*/
-#footer {
+.footer {
   border-top: 1px solid #e4e4e4;
   border-width: 1px;
 
@@ -77,8 +146,7 @@ ul {
   padding-right: 27px;
 }
 
-/*
+
 * {
     border: 1px solid red !important;
  }
- */
