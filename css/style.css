@@ -74,7 +74,6 @@ ul {
   float: right;
   padding-top: 8px;
   padding-right: 20px;
-  
 }
 
 .search input {
@@ -146,7 +145,7 @@ ul {
   height: 200px;
   overflow: hidden;
 }
-.promos li:nth-child(2),
+.promos li:nth-child(2),   /* selecting the 2 middle promo images */
 .promos li:nth-child(3) {
   margin: 0 2px;
 }
