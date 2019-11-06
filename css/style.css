@@ -188,6 +188,7 @@ ul {
 
 .footer-top p {
   float: left;
+  padding-top: 4px;
 }
 
 .footer-top ul {
@@ -200,7 +201,7 @@ ul {
   border-right: 1px solid #ccc;
 }
 
-.footer-top .last, .footer-bottom .last {
+.footer-top .last, .footer-bottom img {
   padding-right: 0;
   border-right: none;
 }
