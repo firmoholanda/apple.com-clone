@@ -74,26 +74,28 @@ ul {
 .search {
   float: right;
   padding-top: 8px;
-  padding-right: 16px;
+  padding-right: 20px;
+  
 }
 
 .search input {
-  box-sizing: border-box;
-  width: 126px;
-  border: 1px solid #606060;
+  width: 108px;
   border-radius: 12px;
+  box-sizing: border-box;
+  border: 1px solid #606060;
   background-image: url('../img/search.svg');
   background-position: 3px 3px;
   background-color: rgba(255, 255, 255, 0.1);
-  padding-left: 20px;
   margin-left: 10px;
+  padding: 4px 18px 1px 22px;
   color: #fff;
+  outline: none;
 }
 
 .search input:focus {
-  background: url('../images/search_icon2.png') 10px 50% no-repeat, white;
-  width: 200px;
-  transition-duration: 0.7s;
+  width: 124px;
+  background: url('../img/search02.svg') 3px 3px no-repeat, white;
+  transition-duration: 0.5s;
 }
 
 /* billboard ----------------------------------------------------------------------------*/
@@ -140,9 +142,13 @@ ul {
 .promos li {
   position: relative;
   float: left;
-  width: 25%;
+  width: calc(25% - 2px);
   height: 200px;
   overflow: hidden;
+}
+.promos li:nth-child(2),
+.promos li:nth-child(3) {
+  margin: 0 2px;
 }
 
 .promos a {
