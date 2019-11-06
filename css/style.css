@@ -84,11 +84,16 @@ ul {
   border-radius: 12px;
   background-image: url('../img/search.svg');
   background-position: 3px 3px;
-  background-color: #aaa;
   background-color: rgba(255, 255, 255, 0.1);
   padding-left: 20px;
   margin-left: 10px;
   color: #fff;
+}
+
+.search input:focus {
+  background: url('../images/search_icon2.png') 10px 50% no-repeat, white;
+  width: 200px;
+  transition-duration: 0.7s;
 }
 
 /* billboard ----------------------------------------------------------------------------*/
@@ -102,7 +107,28 @@ ul {
 
 /* header ----------------------------------------------------------------------------*/
 .header {
+  padding-top: 40px;
   text-align: center;
+}
+
+.subheadline  {
+  margin-top: -26px;
+}
+
+.cta {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.cta a {
+  display: inline-block;
+  height: 32px;
+  overflow: hidden;
+}
+
+.cta img:hover {
+  position: relative;
+  top: -32px;
 }
 
 /* promos -------------------------------------------------------------------------------*/
