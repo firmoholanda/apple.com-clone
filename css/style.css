@@ -89,6 +89,7 @@ ul {
   padding: 4px 18px 1px 22px;
   color: #fff;
   outline: none;
+  transition-duration: 0.5s;
 }
 
 .search input:focus {
