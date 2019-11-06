@@ -1,53 +1,55 @@
-# 📃 Basic HTML Page Structure
-This project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ 'The Global School for Remote Software Developers!').
+# 📃 backgrounds and gradients
 
-This project consists of building an HTML document that matches the appearance of nytimes.com.
+this project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ 'The Global School for Remote Software Developers!').
 
-
-## 🔗 Link to assignment
-
-The assignment can be found in the Odin Project's HTML and CSS course that can be found [here](hhttps://www.theodinproject.com/courses/html5-and-css3/lessons/positioning-and-floating-elements).
+this project consists of building a webpage using images as a background and adding gradients to elements. The goal is to make a clone of old an old version of the Apple website webpage.
 
 
-## 📡 Technologies used
+## 🔗 link to assignment
 
-- HMTL
-- CSS
-
-Basic HTML5, CSS and github was used on this collaborative project.
+the assignment can be found in the Odin Project's HTML and CSS course that can be found [here](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients).
 
 
-## 🚀 Our project
+## 📡 technologies used
 
-Our project can be found in https://github.com/Rhelli/NYT-Clone/tree/development
+- html 5
+- css 3
+- github
 
-### ✨ [Live Demo](https://raw.githack.com/Rhelli/NYT-Clone/tree/development)
+basic HTML5, CSS and github was used on this solo project.
+
+
+## 🚀 the project
+
+this project can be found in https://github.com/firmoholanda/apple.com-clone
+
+### ✨ [live demo](https://raw.githack.com/Rhelli/NYT-Clone/tree/development)
 <a href="https://raw.githack.com/firmoholanda/mint.com-clone/tree/development" target="_blank">
     <img alt="page animation" src="https://github.com/Rhelli/NYT-Clone/tree/development/Assets/Img/nytimes.com-clone-animation.gif" />
 </a>
 
 
-## 🤝 Contributing
+## 🤝 contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Rhelli/NYT-Clone/issues).
+contributions, issues and feature requests are welcome!<br/>Feel free to check [issues page](https://github.com/firmoholanda/apple.com-clone/issues).
 
-1. Fork it (https://github.com/firmoholanda/NYT-Clone/fork)
-2. Create your working branch (git checkout -b [choose-a-name])
-3. Commit your changes (git commit -am 'what this commit will fix/add/improve')
-4. Push to the branch (git push origin [chosen-name])
-5. Create a new Pull Request
+1. fork it (https://github.com/firmoholanda/apple.com-clone/fork)
+2. create your working branch (git checkout -b [choose-a-name])
+3. commit your changes (git commit -am 'what this commit will fix/add/improve')
+4. push to the branch (git push origin [chosen-name])
+5. create a new pull request
 
 
-## 🤖 Contributors
+## 🤖 contributor
 
 firmo holanda - [GitHub](https://github.com/firmoholanda)
 
 
-## 🙋‍♂ Show your support
+## 🙋‍♂ show your support
 
-Give a ⭐️ if you like this project!
+give a ⭐️ if you like this project!
 
 
-## 📝 License
+## 📝 license
 
-This project is [MIT](https://github.com/Rhelli/NYT-Clone/tree/development/LICENSE.txt) licensed.
+this project is [MIT](https://github.com/firmoholanda/apple.com-clone/blob/development/license.txt) licensed.
