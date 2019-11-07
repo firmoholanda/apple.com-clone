@@ -2,7 +2,7 @@
 
 this project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ 'The Global School for Remote Software Developers!').
 
-this project consists of building a webpage using images as a background and adding gradients to elements. The goal is to make a clone of old an old version of the Apple website webpage.
+it consist on building a webpage using images as a background and adding gradients to elements. The goal is to make a clone of old an old version of the Apple website webpage.
 
 
 ## 🔗 link to assignment
@@ -12,11 +12,11 @@ the assignment can be found in the Odin Project's HTML and CSS course that can b
 
 ## 📡 technologies used
 
-- html 5
-- css 3
+- html
+- css
 - github
 
-basic HTML5, CSS and github was used on this solo project.
+basic HTML5, CSS3 and github was used on this solo project.
 
 
 ## 🚀 the project
