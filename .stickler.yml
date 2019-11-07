@@ -1,7 +1,7 @@
 linters:
   stylelint:
     config: 'stylelint.config.js'
-
+    
 files: 
   ignore:
-    - 'CSS/normalize.css'
+    - 'css/normalize.css'
