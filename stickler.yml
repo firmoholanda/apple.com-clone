@@ -4,4 +4,4 @@ linters:
 
 files: 
   ignore:
-    - 'CSS/normalize.css'
+    - 'css/normalize.css'
