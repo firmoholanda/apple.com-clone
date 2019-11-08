@@ -27,11 +27,13 @@ article li {
   background: linear-gradient(#999, #707070 50%, #5e5e5e 50%, #797979);
   border: 1px solid #606060;
   border-radius: 4px;
+
 }
 
 .navbar ul, .search {
-  display: inline-block;
   height: 100%;
+  display: inline-block;
+  list-style-type: none;
 }
 
 .navbar li {
