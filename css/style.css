@@ -30,8 +30,9 @@ article li {
 }
 
 .navbar ul, .search {
-  display: inline-block;
   height: 100%;
+  display: inline-block;
+  list-style-type: none;
 }
 
 .navbar li {
