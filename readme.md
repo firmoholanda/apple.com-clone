@@ -26,7 +26,7 @@ basic HTML5, CSS3 and github was used on this solo project.
 
 this project can be found in https://github.com/firmoholanda/apple.com-clone
 
-### ✨ [live version](https://raw.githack.com/firmoholanda/apple.com-clone/development/index.html)
+### ✨ [live version](https://raw.githack.com/firmoholanda/apple.com-clone/master/index.html)
 <a href="https://raw.githack.com/firmoholanda/apple.com-clone/development/index.html" target="_blank">
     <img alt="page animation" src="https://github.com/firmoholanda/apple.com-clone/blob/development/img/apple.com-clone-animation.gif" />
 </a>
