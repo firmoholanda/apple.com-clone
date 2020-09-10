@@ -2,7 +2,7 @@
 
 this project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ 'The Global School for Remote Software Developers!').
 
-it consist on building a webpage using images as a background and adding gradients to elements. the goal is to make a clone of old an old version of the apple website webpage.
+this project consists of building an HTML document that matches the appearance of 2014 apple.com
 
 
 
